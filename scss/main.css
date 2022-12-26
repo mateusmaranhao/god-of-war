@@ -238,4 +238,23 @@ header .container .platform ul li {
   margin-left: 1.4rem;
   font-size: 1.6rem;
   line-height: 1.7rem;
+}
+
+.s-general-info {
+  background-color: #090A0A;
+}
+.s-general-info ul {
+  display: flex;
+  padding: 6.1rem 0 5rem;
+}
+.s-general-info ul li {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.s-general-info ul li:not(:last-child) {
+  margin-right: 72px;
+}
+.s-general-info ul li p {
+  font-size: 1.6rem;
 }/*# sourceMappingURL=main.css.map */

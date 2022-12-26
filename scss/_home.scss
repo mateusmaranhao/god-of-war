@@ -97,3 +97,26 @@
         }
     }
 }
+
+.s-general-info {
+    background-color: #090A0A;
+
+    ul {
+        display: flex;
+        padding: 6.1rem 0 5rem;
+
+        li {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+
+            &:not(:last-child) {
+                margin-right: 72px;
+            }
+
+            p {
+                font-size: 1.6rem;
+            }
+        }
+    }
+}
