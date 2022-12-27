@@ -45,12 +45,12 @@ a {
 .subtitle {
   display: flex;
   align-items: center;
+  gap: 2rem;
 }
 .subtitle span {
   font-weight: 500;
   font-size: 2rem;
   line-height: 22px;
-  margin-left: 1.5rem;
 }
 
 h1 {
@@ -167,16 +167,6 @@ header .container .platform ul li {
 .s-hero .container .left-content {
   width: 100%;
   max-width: 78.2rem;
-}
-.s-hero .container .left-content .release-date {
-  display: flex;
-  align-items: center;
-  gap: 2rem;
-}
-.s-hero .container .left-content .release-date span {
-  font-weight: 500;
-  font-size: 2rem;
-  line-height: 2.2rem;
 }
 .s-hero .container .left-content p {
   margin-top: 1.8rem;

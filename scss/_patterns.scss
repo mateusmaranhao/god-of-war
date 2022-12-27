@@ -1,12 +1,12 @@
 .subtitle {
     display: flex;
     align-items: center;
+    gap: 2rem;
 
     span {
         font-weight: 500;
         font-size: 2rem;
         line-height: 22px;
-        margin-left: 1.5rem;
     }
 }
 
