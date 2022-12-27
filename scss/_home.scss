@@ -110,3 +110,45 @@
         }
     }
 }
+
+.s-story {
+    background: url("../img/bg-story.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    height: 89.9rem;
+
+    .container {
+        display: flex;
+        align-items: flex-end;
+        justify-content: space-between;
+        padding-top: 16rem;
+        .left-content {
+            width: 100%;
+            max-width: 59.7rem;
+
+            .subtitle {
+                margin-bottom: 2.8rem;
+            }
+
+            .story-info {
+                margin-bottom: 5.6rem;
+                p {
+                    margin-top: 2.4rem;
+                }
+            }
+
+            .publisher {
+                display: flex;
+                align-items: center;
+                gap: 4.6rem;
+                max-width: 50rem;
+
+                span {
+                    font-weight: 400;
+                    font-size: 16px;
+                    line-height: 160%;
+                }
+            }
+        }
+    }
+}

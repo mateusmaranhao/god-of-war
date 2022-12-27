@@ -248,4 +248,41 @@ header .container .platform ul li {
 }
 .s-general-info ul li p {
   font-size: 1.6rem;
+}
+
+.s-story {
+  background: url("../img/bg-story.png");
+  background-position: center center;
+  background-repeat: no-repeat;
+  height: 89.9rem;
+}
+.s-story .container {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  padding-top: 16rem;
+}
+.s-story .container .left-content {
+  width: 100%;
+  max-width: 59.7rem;
+}
+.s-story .container .left-content .subtitle {
+  margin-bottom: 2.8rem;
+}
+.s-story .container .left-content .story-info {
+  margin-bottom: 5.6rem;
+}
+.s-story .container .left-content .story-info p {
+  margin-top: 2.4rem;
+}
+.s-story .container .left-content .publisher {
+  display: flex;
+  align-items: center;
+  gap: 4.6rem;
+  max-width: 50rem;
+}
+.s-story .container .left-content .publisher span {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 160%;
 }/*# sourceMappingURL=main.css.map */
