@@ -158,3 +158,44 @@
         }
     }
 }
+
+.s-character {
+    background: url("../img/bg-characters.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    padding-top: 21.3rem;
+
+    .container {
+        .description {
+            display: flex;
+            justify-content: space-between;
+            .left-content {
+                width: 100%;
+                max-width: 61.2rem;
+
+                .subtitle {
+                    margin-bottom: 2.8rem;
+                }
+                .text {
+                    h2 {
+                        margin-bottom: 2.4rem;
+                    }
+                }
+            }
+            .right-content {
+                display: flex;
+                align-items: center;
+
+                .release {
+                    img {
+                        margin-bottom: 2.2rem;
+                    }
+                    span {
+                        font-size: 1.8rem;
+                        line-height: 140%;
+                    }
+                }
+            }
+        }
+    }
+}

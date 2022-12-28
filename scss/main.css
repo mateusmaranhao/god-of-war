@@ -290,4 +290,36 @@ header .container .platform ul li {
   position: relative;
   left: 2rem;
   top: 0;
+}
+
+.s-character {
+  background: url("../img/bg-characters.png");
+  background-position: center center;
+  background-repeat: no-repeat;
+  padding-top: 21.3rem;
+}
+.s-character .container .description {
+  display: flex;
+  justify-content: space-between;
+}
+.s-character .container .description .left-content {
+  width: 100%;
+  max-width: 61.2rem;
+}
+.s-character .container .description .left-content .subtitle {
+  margin-bottom: 2.8rem;
+}
+.s-character .container .description .left-content .text h2 {
+  margin-bottom: 2.4rem;
+}
+.s-character .container .description .right-content {
+  display: flex;
+  align-items: center;
+}
+.s-character .container .description .right-content .release img {
+  margin-bottom: 2.2rem;
+}
+.s-character .container .description .right-content .release span {
+  font-size: 1.8rem;
+  line-height: 140%;
 }/*# sourceMappingURL=main.css.map */
