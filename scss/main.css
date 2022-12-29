@@ -297,6 +297,8 @@ header .container .platform ul li {
   background-position: center center;
   background-repeat: no-repeat;
   padding-top: 21.3rem;
+  padding-bottom: 14rem;
+  overflow: hidden;
 }
 .s-character .container .description {
   display: flex;
