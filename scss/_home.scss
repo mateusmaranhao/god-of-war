@@ -1,4 +1,6 @@
 .s-hero {
+    display: none;
+
     padding: 16.4rem 0 10.3rem;
     width: 100%;
     background-image: url(../img/bg-hero.jpg);
@@ -89,6 +91,8 @@
 }
 
 .s-general-info {
+    display: none;
+
     background-color: #090A0A;
 
     ul {
@@ -112,6 +116,8 @@
 }
 
 .s-story {
+    display: none;
+
     background: url("../img/bg-story.png");
     background-position: center center;
     background-repeat: no-repeat;
@@ -160,6 +166,8 @@
 }
 
 .s-character {
+    display: none;
+
     background: url("../img/bg-characters.png");
     background-position: center center;
     background-repeat: no-repeat;
