@@ -172,25 +172,59 @@
 }
 
 .s-general-info {
-    display: none;
-
     background-color: #090A0A;
 
     ul {
         display: flex;
         padding: 6.1rem 0 5rem;
+        gap: 72px;
+
 
         li {
             display: flex;
             flex-direction: column;
             align-items: center;
 
-            &:not(:last-child) {
-                margin-right: 72px;
-            }
-
             p {
                 font-size: 1.6rem;
+            }
+        }
+    }
+
+    @media(max-width: 1200px) {
+        padding: 4rem 0;
+        ul {
+            flex-wrap: wrap;
+            gap: 3rem 0;
+            li {
+                width: 33.3%;
+            }
+        }
+    }
+
+    @media(max-width: 991px) {
+        padding: 1rem 0;
+        ul {
+            flex-wrap: wrap;
+            gap: 3rem 0;
+            li {
+                width: 33.3%;
+            }
+        }
+    }
+    
+    @media(max-width: 560px) {
+        padding: 1rem 0;
+
+        ul {
+            flex-wrap: wrap;
+            gap: 3rem 0;
+            li {
+                width: 50%;
+                text-align: center;
+                span {
+                    max-width: 14.5rem;
+                }
             }
         }
     }

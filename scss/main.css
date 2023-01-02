@@ -339,23 +339,60 @@ header .container .platform ul li {
 }
 
 .s-general-info {
-  display: none;
   background-color: #090A0A;
 }
 .s-general-info ul {
   display: flex;
   padding: 6.1rem 0 5rem;
+  gap: 72px;
 }
 .s-general-info ul li {
   display: flex;
   flex-direction: column;
   align-items: center;
 }
-.s-general-info ul li:not(:last-child) {
-  margin-right: 72px;
-}
 .s-general-info ul li p {
   font-size: 1.6rem;
+}
+@media (max-width: 1200px) {
+  .s-general-info {
+    padding: 4rem 0;
+  }
+  .s-general-info ul {
+    flex-wrap: wrap;
+    gap: 3rem 0;
+  }
+  .s-general-info ul li {
+    width: 33.3%;
+  }
+}
+@media (max-width: 991px) {
+  .s-general-info {
+    padding: 1rem 0;
+  }
+  .s-general-info ul {
+    flex-wrap: wrap;
+    gap: 3rem 0;
+  }
+  .s-general-info ul li {
+    width: 33.3%;
+  }
+}
+@media (max-width: 560px) {
+  .s-general-info {
+    padding: 1rem 0;
+  }
+  .s-general-info ul {
+    flex-wrap: wrap;
+    gap: 3rem 0;
+  }
+  .s-general-info ul li {
+    width: 50%;
+    text-align: center;
+  }
+  .s-general-info ul li span {
+    max-width: 14.5rem;
+  }
 }
 
 .s-story {
