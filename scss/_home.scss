@@ -386,9 +386,6 @@
                 }
             }
         }
-        .slide-character {
-            display: none;
-        }
     }
 
     @media(max-width: 1200px) {
@@ -435,6 +432,9 @@
                         }
                     }
                 }
+            }
+            .slide-character {
+                margin-top: 4rem;
             }
         }
     }
