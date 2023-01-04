@@ -203,8 +203,10 @@ header .container .platform ul li {
   padding: 16.4rem 0 10.3rem;
   width: 100%;
   background-image: url(../img/bg-hero.jpg);
-  background-position: center center;
+  background-position: top center;
+  background-size: cover;
   background-repeat: no-repeat;
+  background-attachment: fixed;
   height: 80rem;
 }
 .s-hero .container {
