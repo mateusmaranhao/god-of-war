@@ -2,8 +2,7 @@
 <p align="center">Essa é uma Landing Page desenvolvida durante o evento Dev Process, da Codeboost para divulgar o jogo God of War Ragnarok.</p>
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-deploy">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-deploy">Deploy</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -29,7 +28,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Deploy
 
-Para conferir o resultado em sua máquina basa clicar no link a seguir: [Vercel](https://god-of-war-ragnarok-iota.vercel.app/)
+Para conferir o resultado em sua máquina basa clicar no link a seguir: [Vercel](https://god-of-war-mateusmaranhao.vercel.app/)
 
 ## :memo: Licença
 
