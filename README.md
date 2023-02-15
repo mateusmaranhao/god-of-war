@@ -21,7 +21,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - JavaScript
 - Git e Github
 
-### 📍 Bibliotecas utilizadas
+### 📍 Bibliotecas
 
 - AOS effects (https://michalsnik.github.io/aos/)
 - Google fonts (https://fonts.google.com/)
