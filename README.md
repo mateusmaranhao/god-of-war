@@ -8,7 +8,7 @@
 
 <br>
 
-![Imgur](https://i.imgur.com/0nNmD9E.png)!
+![Imgur](https://i.imgur.com/0nNmD9E.png)
 
 ## 🚀 Tecnologias
 
