@@ -9,7 +9,7 @@
 
 <br>
 
-![God-Of-War](https://imageup.me/images/d6a952d9-7a5b-487f-93f3-2bebbd9169a6.png)
+![God-Of-War](https://imgur.com/0nNmD9E)
 
 ## 🚀 Tecnologias
 
